@@ -3,7 +3,8 @@
 ### Note
 
 This project is used on [https://www.npmjs.com/package/create-react-starter-mvc](https://www.npmjs.com/package/create-react-starter-mvc)
-*I suggest to use the `create-react-starter-mvc` to generate the app bolerplate, read instructions from npm project following the above link.
+
+#### I suggest to use the `create-react-starter-mvc` to generate the app bolerplate, read instructions from npm project following the above link.
 
 ## Setup it directly
 
